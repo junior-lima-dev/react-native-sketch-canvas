@@ -21,5 +21,8 @@
     "canvas"
   ],
   "nativePackage": true,
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "deprecated-react-native-prop-types": "^4.1.0"
+  }
 }
